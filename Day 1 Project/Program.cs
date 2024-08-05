@@ -26,3 +26,5 @@ else
 {
     Console.WriteLine($"{name} don't give out your info.");
 }
+
+Console.WriteLine($"Bye, {name}");
